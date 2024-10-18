@@ -1,4 +1,4 @@
-ATTENTION : à regarder dud ébut à la fin
+ATTENTION : à regarder du début à la fin
 
 ![VirtualBox_TP linux_18_10_2024_14_24_42](https://github.com/user-attachments/assets/b10393bf-4e4d-428f-ac54-c60a1e2373db)
 
